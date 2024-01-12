@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898432831705",
+    "project_id": "titipin-d3591",
+    "storage_bucket": "titipin-d3591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898432831705:android:1480dee21edcd997e5aec8",
+        "android_client_info": {
+          "package_name": "com.example.titipin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAtiIBZFg0v0_0fX4BU4mirwFI3ZrdtRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898432831705:android:78801fcf84aab517e5aec8",
+        "android_client_info": {
+          "package_name": "com.universitybrawijaya.titipin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAtiIBZFg0v0_0fX4BU4mirwFI3ZrdtRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
